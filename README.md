@@ -36,14 +36,16 @@
 - MongoDB
 - SQLite
 
-## Libraries
+## Libraries:
 - jQuery
 - TweenMax
 - Velocity
 
-## Data:
+## Other:
 - JSON
 - XML
+- T4
+- Typewriter
 
 ## CMS I worked with:  
 - DotNetNuke
