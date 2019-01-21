@@ -1,21 +1,16 @@
 # This is what I working with to make softwares:  
 ## Languages:
-**Expert at:**  
 - C#
 - Javascript
-- Typescript
-- Java (android)
-- SQL & T-SQL
 - HTML
 - CSS & SASS
+- Typescript
+- SQL & T-SQL
+- Java (android)
 - VB & VB.Net
-
-**Good at:**  
-- C++
-
-**Beginner at:**  
-- Python
-- Pascal (delphi)
+- C++ (Good)
+- Python (Beginner)
+- Pascal (delphi) (Beginner)
 
 ## Technologies:
 **Expert at:**
@@ -29,11 +24,11 @@
 - Entity Framework(Code-first and DB-first)
 - LinqToSQL
 - Windows Forms
-
-**Familiar with:**
-- Xamarin
-- WPF
-- VBA
+- Xamarin (Familiar)
+- WPF (Familiar)
+- VBA (Familiar)
+- SubSonic ORM
+- ...
 
 ## DB:
 - MS SQL Server
@@ -42,24 +37,30 @@
 - MongoDB
 - SQLite
 
-## Libraries:
+## Libraries & Toolkits:
 - jQuery
 - TweenMax
 - Velocity
+- OpenCV
+- Yolo
+- Gulp
+- Webpack 
+- ...
 
 ## Other:
-- JSON
-- XML
-- T4
-- Typewriter (code generator)
-- Office
+I also do SEO, DB performance tuning and optimization.
+I am ok with:
+- JSON, XML, T4, Typewriter (code generator), EJS, PIP, NPM, Chocolatey, Git, TFS, SVN, Photoshop, Office, 10 finger typing
 
-## IDE:
-- Microsoft Visual Studio 2005, 2008, 2010, 2012, 2013, 2015, 2017
-- Microsoft Visual Studio Code - for Angular, Node.js, Python development
-- Google Android Studio - for android development
-- Eclipse (Helios & Kepler) - for android development
-- Apache NetBeans - for php development
+## IDE & Code Editors:
+- Visual Studio
+- Visual Studio Code - for Angular, Node.js, Python development
+- Android Studio - for android development
+- Eclipse - for android development
+- NetBeans - for php development
+- Atom
+- Brackets
+- Dreamweaver
 
 ## DB Management:
 - Microsoft Management Studio
@@ -70,3 +71,5 @@
 
 ## CMS I worked with:  
 - DotNetNuke
+- Wordpress (beginner)
+- Joomla (beginner)
