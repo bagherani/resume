@@ -7,7 +7,7 @@
 - Typescript
 - SQL & T-SQL
 - Java (android)
-- VB & VB.Net
+- VB & VB.Net & Basic
 - C++ (Good)
 - Python (Beginner)
 - Pascal (delphi) (Beginner)
@@ -21,7 +21,7 @@
 - Angular
 - Material Design
 - Node.js
-- Entity Framework(Code-first and DB-first)
+- Entity Framework (Code-first and DB-first)
 - LinqToSQL
 - Windows Forms
 - Xamarin (Familiar)
@@ -39,8 +39,12 @@
 
 ## Libraries & Toolkits:
 - jQuery
+- Lucene
+- Fuse.js
+- Lunr
 - TweenMax
 - Velocity
+- Bootstrap 3
 - OpenCV
 - Yolo
 - Gulp
@@ -48,9 +52,13 @@
 - ...
 
 ## Other:
+- Raspberry Pi 3 with Raspbian OS and working with electronic sensors and devices such as PM1000 power meter and Modbus protocol
+- Arduino (Familiar)
+- PLC (Familiar)
+- OWASP
 I also do SEO, DB performance tuning and optimization.
 I am ok with:
-- JSON, XML, T4, Typewriter (code generator), EJS, PIP, NPM, Chocolatey, Git, TFS, SVN, Photoshop, Office, 10 finger typing
+- JSON, XML, T4, Typewriter (code generator), EJS, PIP, NPM, Chocolatey, Git, TFS, SVN, Photoshop, Office, 10 finger typing, ...
 
 ## IDE & Code Editors:
 - Visual Studio
@@ -68,6 +76,12 @@ I am ok with:
 - MySQL Workbench
 - SQLite Browser
 
+## OS:
+- Windows
+- Kali
+- Ubuntu
+- Raspbian
+- MS-DOS
 
 ## CMS I worked with:  
 - DotNetNuke
