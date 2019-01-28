@@ -9,6 +9,7 @@
 - Java (android)
 - VB & VB.Net & Basic
 - C++ (Good)
+- PHP (Beginner)
 - Python (Beginner)
 - Pascal (delphi) (Beginner)
 
