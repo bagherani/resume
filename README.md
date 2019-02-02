@@ -20,7 +20,7 @@
 - ASP.Net Core
 - Angularjs
 - Angular
-- Material Design
+- Material Design (Google and UI-Kit)
 - Node.js
 - Entity Framework (Code-first and DB-first)
 - LinqToSQL
