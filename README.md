@@ -29,6 +29,8 @@
 - WPF (Familiar)
 - VBA (Familiar)
 - SubSonic ORM
+- Service workers (Familiar)
+- Web Push Notifications (Familiar)
 - ...
 
 ## DB:
@@ -42,6 +44,8 @@
 - jQuery
 - Lucene
 - Fuse.js
+- SignalR
+- Websocket
 - Lunr
 - TweenMax
 - Velocity
