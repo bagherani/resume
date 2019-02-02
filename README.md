@@ -22,7 +22,7 @@
 - Angular
 - Material Design (Google and UI-Kit)
 - Node.js
-- Entity Framework (Code-first and DB-first)
+- Entity Framework (Code-first, DB-first, Fluent API)
 - LinqToSQL
 - Windows Forms
 - Xamarin (Familiar)
