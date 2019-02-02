@@ -56,9 +56,11 @@
 - Raspberry Pi 3 with Raspbian OS and working with electronic sensors and devices such as PM1000 power meter and Modbus protocol
 - Arduino (Familiar)
 - PLC (Familiar)
-- OWASP
-I also do SEO, DB performance tuning and optimization.
-I am ok with:
+- OWASP  
+
+I also do SEO, DB performance tuning and optimization.  
+
+I am ok with:  
 - JSON, XML, T4, Typewriter (code generator), EJS, PIP, NPM, Chocolatey, Git, TFS, SVN, Photoshop, Office, 10 finger typing, ...
 
 ## IDE & Code Editors:
