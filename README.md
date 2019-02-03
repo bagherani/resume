@@ -1,4 +1,4 @@
-# This is what I working with to make softwares:  
+# This is what I am working with to make softwares:  
 ## Languages:
 - C#
 - Javascript
@@ -25,6 +25,7 @@
 - Entity Framework (Code-first, DB-first, Fluent API)
 - LinqToSQL
 - Windows Forms
+** Familiar **
 - Xamarin (Familiar)
 - WPF (Familiar)
 - VBA (Familiar)
