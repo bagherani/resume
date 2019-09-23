@@ -19,6 +19,8 @@
 - ASP.Net MVC & WebAPI
 - ASP.Net Core
 - Angularjs
+- React
+- Redux
 - Angular
 - Material Design (Google and UI-Kit)
 - Node.js
