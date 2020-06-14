@@ -26,6 +26,7 @@
 - Node.js
 - Entity Framework (Code-first, DB-first, Fluent API)
 - LinqToSQL
+- Mongoose
 - Windows Forms  
 ** Familiar **
 - Xamarin (Familiar)
